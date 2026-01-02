@@ -1,0 +1,5 @@
+{
+  "name": "AI 감성 배경화면 생성기",
+  "description": "사용자의 설명에 따라 고화질 9:16 세로형 스마트폰 배경화면을 생성하는 모바일 전용 웹 앱입니다.",
+  "requestFramePermissions": []
+}
